@@ -1,0 +1,28 @@
+body, header, img, nav, ul, li, aside, h2, section, h1, figure,
+ figcaption, p, ol, form, label, input, option, select, textarea, footer {
+   margin: 0;
+   padding: 0;
+   border: none;
+ }
+
+h1, h2, p {
+  font-style: inherit
+}
+
+
+ol, ul {
+  list-style-type: none;
+  font-family: inherit;
+}
+
+body {
+  line-height: 1.5;
+}
+
+img {
+  width: 100%
+}
+
+p {
+  font-family: serif;
+}
